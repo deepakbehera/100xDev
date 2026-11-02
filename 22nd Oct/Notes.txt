@@ -1,0 +1,9 @@
+Notes:
+https://brindle-goal-102.notion.site/Week-1-Thursday-NOTES-40046b36b2e980f4ba2ae92bbd39dabf
+
+Today's Code:
+https://github.com/100xwinter-arc/22-oct-1st-class
+
+Assignment:
+https://brindle-goal-102.notion.site/Assignment-on-CRUD-38846b36b2e980d2aec3f2299465bc2a
+Assignment is for those who already know basic backend and database concepts. Feel free to use MongoDB as your database.
